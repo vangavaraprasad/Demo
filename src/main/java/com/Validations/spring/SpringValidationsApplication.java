@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 public class SpringValidationsApplication {
 
+	// hello world
 	public static void main(String[] args) {
 		SpringApplication.run(SpringValidationsApplication.class, args);
 	}
